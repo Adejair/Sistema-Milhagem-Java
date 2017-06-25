@@ -11,7 +11,7 @@ class VooCliente {
       this.codigoCliente = codigoCliente;
       this.codigoVoo = codigoVoo;
 
-      thiis.data = data;
+      this.data = data;
       this.hora = hora;
   }
 
