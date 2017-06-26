@@ -1,7 +1,3 @@
-/**
-*
-*/
-
 import java.utils.ArrayList;
 
 class Menu {
